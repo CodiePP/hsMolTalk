@@ -1,2 +1,2 @@
 # hsMolTalk
-Haskell binding to the [MolTalk](/CodiePP/libmoltalk) library for structural bioinformatics analyses
+Haskell binding to the [MolTalk](https://github.com/CodiePP/libmoltalk) library for structural bioinformatics analyses
